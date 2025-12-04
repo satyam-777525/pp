@@ -1,0 +1,18 @@
+.catalog-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.tier-indicator {
+  color: #28a745;
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+.btn-sm {
+  padding: 6px 12px;
+  font-size: 12px;
+}
+

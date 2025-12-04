@@ -1,0 +1,42 @@
+.card-link {
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s;
+}
+
+.card-link:hover {
+  transform: translateY(-5px);
+}
+
+.stat-number {
+  font-size: 36px;
+  font-weight: bold;
+  color: #007bff;
+  margin: 10px 0;
+}
+
+.stat-label {
+  color: #666;
+  font-size: 14px;
+}
+
+.filter-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.status-pending {
+  background-color: #ffc107;
+  color: #000;
+}
+
+.status-approved {
+  background-color: #28a745;
+  color: white;
+}
+
+.status-rejected {
+  background-color: #dc3545;
+  color: white;
+}
+

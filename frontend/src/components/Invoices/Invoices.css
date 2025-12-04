@@ -1,0 +1,15 @@
+.status-pending {
+  background-color: #ffc107;
+  color: #000;
+}
+
+.status-paid {
+  background-color: #28a745;
+  color: white;
+}
+
+.status-overdue {
+  background-color: #dc3545;
+  color: white;
+}
+
